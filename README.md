@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander, I recently left the seminary where I spent 12-years of my life training to become a Roman Catholic priest. I'm not meant to be a priest. So, now...
+- 👋 Hi, I’m Alexander, I spent 12-years of my life as a seminarian and served parochial communities. I left the seminary last year, August 2022, and now...
 - 👀 I’m interested in Software Engineering. Actually, I graduated BS Computer Engineering prior to entering the seminary. I just returned to the world of Computers again.
 - 🌱 I’m currently learning Python and I'm currently busy with CS50x 2023 of Harvard University via Edx.
 - 💞️ I’m looking to collaborate on ... Python projects. My first language was C. I'm still learning C together with Python. I also know a bit of C++, C# and Java.
@@ -6,6 +6,6 @@
 - I am still learning. I love learning. Oh, the very good feeling when you have found a solution to a certain problem!
 
 <!---
-Alekzhi/Alekzhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+addaguob/addaguob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
