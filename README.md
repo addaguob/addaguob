@@ -11,7 +11,8 @@
         </ul>
     <li> 🛠️ <mark><b>My skills:</b> Python, Dart, SQL, MySQL, SQLite, Flask, C, C++, C#, Java, [JavaScript, HTML, CSS], REST API, Git, C Data Structures and Algorithms</mark>
     <li> 👥 <b>My community:</b> Harvard's CS50 (https://discord.gg/cs50)
-    <li> 📫 My email: alexanderdaguob@gmail.com
+    <li> 📫 <b>My email:</b> alexanderdaguob@gmail.com
+    <li> ⛔ <b>My availability:</b> currently occupied with projects in my private repositories.
 <ul>
 <!---
 addaguob/addaguob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
