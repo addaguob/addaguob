@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
     <!-- Dev Card column -->
     <div style="flex-shrink: 0;">
-        <a href="https://app.daily.dev/alexanderddaguob"><img src="https://api.daily.dev/devcards/v2/DbeKd2z6Eb2A9vZlroZaB.png?type=default&r=sp4" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
+        <a href="https://app.daily.dev/alexanderddaguob"><img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
     </div>
     <!-- Text content column -->
     <div style="flex-grow: 1;">
