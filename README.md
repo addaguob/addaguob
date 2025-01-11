@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
     <!-- Dev Card column -->
     <div style="flex-shrink: 0;">
-        <a href="https://app.daily.dev/alexanderddaguob"><img src="https://api.daily.dev/devcards/v2/DbeKd2z6Eb2A9vZlroZaB.png?type=default&r=nn7" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
+        <a href="https://app.daily.dev/alexanderddaguob"><img src="https://api.daily.dev/devcards/v2/DbeKd2z6Eb2A9vZlroZaB.png?type=default&r=sp4" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
     </div>
     <!-- Text content column -->
     <div style="flex-grow: 1;">
@@ -13,7 +13,6 @@
             <mark>AB Philosophy - 2013</mark> - Sacred Heart Seminary - Bacolod, Philippines.<br>
             <mark>BS Sacred Theology - 2016</mark> - University of Santo Tomas - Manila, Philippines.<br>
             <mark>MA/STL Sacred Theology - 2017-2022</mark> - University of Santo Tomas - Manila, Philippines.<br>
-            <mark>MA Sacred Theology - 2022</mark> - University of Santo Tomas - Manila, Philippines.</li>
             <li> 📚 I am forever thankful to Harvard University's CS50 courses:
                 <ul>
                     <li><a href="https://cs50.harvard.edu/x">CS50x</a>: Computer Science with C, C Data Structures and Algorithms, Python, SQL, Web, Flask, Cybersecurity, </li>
