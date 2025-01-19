@@ -1,8 +1,4 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
-    <!-- Dev Card column -->
-    <div style="flex-shrink: 0;">
-        <a href="https://app.daily.dev/alexanderddaguob"><img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
-    </div>
     <!-- Text content column -->
     <div style="flex-grow: 1;">
         <ul>    
@@ -31,6 +27,10 @@
             </li>
             <li> ⛔ <b>Availability:</b> currently occupied with projects in my private repositories.</li>
         </ul>
+    </div>
+    <!-- Dev Card column -->
+    <div style="flex-shrink: 0;">
+        <a href="https://app.daily.dev/alexanderddaguob"><img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
     </div>
 </div>
 <!---
