@@ -25,8 +25,8 @@
                     <li>Python: <a href="https://discord.gg/python">Discord</a></li>
                 </ul>
             </li>
-            <li> ⛔ <b>Availability:</b> currently occupied with projects in my private repositories.</li>
-        </ul>
+            <li> <h4>⛔ <b>Availability:</b> currently occupied with projects in my private repositories.</h2></li>
+        </ul><br>
     </div>
     <!-- Dev Card column -->
     <div style="flex-shrink: 0;">
