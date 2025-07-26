@@ -1,6 +1,8 @@
 
 # Alexander D. Daguob
-<span style="font-size: 0.9em;">⛔ <strong>Availability:</strong> currently occupied with projects in my private repositories.</span>
+
+- **⛔ Availability:** currently occupied with private repositories/projects.
+- **📧 Email:** alexanderdaguob@gmail.com 
 
 ## 1. Tech Stack
 
@@ -45,8 +47,7 @@
 
 <a href="https://app.daily.dev/alexanderddaguob"><img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
 
----
-**Email:** alexanderdaguob@gmail.com  
+--- 
 **Community:** [CS50 Discord](https://discord.gg/cs50) | [Flet Discord](https://discord.com/invite/dzWXP8SHG8) | [Python Discord](https://discord.gg/python)
 <!---
 addaguob/addaguob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
