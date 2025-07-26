@@ -1,38 +1,52 @@
-<div style="display: flex; align-items: flex-start; gap: 2rem;">
-    <!-- Text content column -->
-    <div style="flex-grow: 1;">
-        <ul>    
-            <li> 👋😄 Hi, I'm Alexander!</li>
-            <li> 👀 I recently enjoy engineering and developing programs in <a href="https://www.python.org/">Python</a> and under its umbrella: <a href="https://flet.dev/docs/">Flet</a>, <a href="https://docs.python.org/3/library/sqlite3.html">SQLite3</a> and <a href="https://fastapi.tiangolo.com/">FastAPI</a>.</li>
-            <li> 🌱 Prior to my Software Engineering works:<br>
-            <mark>BS Computer Engineering - 2010</mark> - AMA Computer College - Bacolod, Philippines.<br>
-            <mark>AB Philosophy - 2013</mark> - Sacred Heart Seminary - Bacolod, Philippines.<br>
-            <mark>BS Sacred Theology - 2016</mark> - University of Santo Tomas - Manila, Philippines.<br>
-            <mark>MA/STL Sacred Theology - 2017-2022</mark> - University of Santo Tomas - Manila, Philippines.<br>
-            <li> 📚 I am forever thankful to Harvard University's CS50 courses:
-                <ul>
-                    <li><a href="https://cs50.harvard.edu/x">CS50x</a>: Computer Science with C, C Data Structures and Algorithms, Python, SQL, Web, Flask, Cybersecurity, </li>
-                    <li><a href="http://cs50.harvard.edu/python">CS50Python</a>: Computer programming, debugging and testing with Python, </li>
-                    <li><a href="https://cs50.harvard.edu/sql">CS50SQL</a>: Database administration with SQL, including data modeling, normalization, and advanced querying techniques.</li>
-                    <li><a href="http://cs50.harvard.edu/web">CS50Web</a>: HTML, CSS, JavaScript, Django, Git, CI/CD, Scalability and Security.</li>
-                </ul>
-            </li>
-            <li> 📫 <b>Email:</b> alexanderdaguob@gmail.com</li>
-            <li> 👥 <b>Community:</b> 
-                <ul>
-                    <li>Harvard's CS50: <a href="https://discord.gg/cs50">Discord</a></li>
-                    <li>Flet: <a href="https://discord.com/invite/dzWXP8SHG8">Discord</a></li>
-                    <li>Python: <a href="https://discord.gg/python">Discord</a></li>
-                </ul>
-            </li>
-            <li> <h4>⛔ <b>Availability:</b> currently occupied with projects in my private repositories.</h2></li>
-        </ul><br>
-    </div>
-    <!-- Dev Card column -->
-    <div style="flex-shrink: 0;">
-        <a href="https://app.daily.dev/alexanderddaguob"><img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
-    </div>
-</div>
+
+# Alexander D. Daguob
+<span style="font-size: 0.9em;">⛔ <strong>Availability:</strong> currently occupied with projects in my private repositories.</span>
+
+## 1. Tech Stack
+
+**Major Tools:**
+- Python ([python.org](https://www.python.org/))
+- FastAPI ([fastapi.tiangolo.com](https://fastapi.tiangolo.com/))
+- Flask ([flask.palletsprojects.com](https://flask.palletsprojects.com/))
+- SQL (SQLite3, MySQL, PostgreSQL)
+
+**Other Tools:**
+- Flet ([flet.dev](https://flet.dev/docs/))
+- NiceGUI ([nicegui.io](https://nicegui.io/))
+- HTML, CSS, JavaScript, C
+- Git, CI/CD
+
+## 2. Projects
+
+**Position:** Software Engineer  
+**Company:** DaguobDev (self-employed/freelance)  
+**Duration:** Aug 2023 – Present
+
+**Recent Projects:**
+- **PUSH-App:** The Pressure Ulcer Surveillance Hub (PUSH) application integrates tracking and monitoring of Hospital-acquired Pressure Injuries (HAPI) and facilitates implementation of targeted management strategies based on PHC pressure ulcer policy to prevent HAPI effectively.
+- **EyeQsoft Project:** A software project to streamline patient record-keeping and daily transactions, job orders, patients, doctors, and sales staff. Includes a comprehensive web application for managing optical clinic operations, built with NiceGUI frontend and FastAPI backend.
+- **yellowpagesPh_scraper:** A web-scraping software for spreadsheet encoders recording data from Yellow-Pages-Ph, engineered with simple Python frameworks like tkinter, requests, beautiful soup 4 and pandas.
+
+## 3. Education
+
+- **MA/STL Sacred Theology** (2017–2022) – University of Santo Tomas, Manila, Philippines
+- **BS Sacred Theology** (2016) – University of Santo Tomas, Manila, Philippines
+- **AB Philosophy** (2013) – Sacred Heart Seminary, Bacolod, Philippines
+- **BS Computer Engineering** (2010) – AMA Computer College, Bacolod, Philippines
+
+**Online Courses Immersion:**
+- CS50x: Computer Science (C, Data Structures, Algorithms, Python, SQL, Web, Flask, Cybersecurity)
+- CS50Python: Programming, Debugging, Testing with Python
+- CS50SQL: Database Administration, Data Modeling, Advanced SQL
+- CS50Web: HTML, CSS, JavaScript, Django, Git, CI/CD, Scalability, Security
+
+## 4. Dev Card (Daily Knowledge and Tools Update)
+
+<a href="https://app.daily.dev/alexanderddaguob"><img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/></a>
+
+---
+**Email:** alexanderdaguob@gmail.com  
+**Community:** [CS50 Discord](https://discord.gg/cs50) | [Flet Discord](https://discord.com/invite/dzWXP8SHG8) | [Python Discord](https://discord.gg/python)
 <!---
 addaguob/addaguob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
