@@ -18,7 +18,7 @@
 
 ## 2. Projects
 
-**Position:** Software Engineer  
+**Role:** Software Engineer  
 **Company:** DaguobDev (self-employed/freelance)  
 **Duration:** Aug 2023 – Present
 
@@ -39,6 +39,7 @@
 - CS50Python: Programming, Debugging, Testing with Python
 - CS50SQL: Database Administration, Data Modeling, Advanced SQL
 - CS50Web: HTML, CSS, JavaScript, Django, Git, CI/CD, Scalability, Security
+- [Visit Harvard CS50x](https://cs50.harvard.edu/x/)
 
 ## 4. Dev Card (Daily Knowledge and Tools Update)
 
