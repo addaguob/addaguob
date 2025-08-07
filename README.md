@@ -45,7 +45,8 @@ me = AlexanderDaguob()
 
 <div style="flex-shrink: 0;">
 <a href="https://app.daily.dev/alexanderddaguob">
-<img src="./devcard.png" width="300" alt="Alexander D. Daguob's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/DbeKd2z6Eb2A9vZlroZaB.png?type=default&r=kfx" width="356" alt="Alexander D. Daguob's Dev Card"/>
+</a>
 </a>
 </div>
 
