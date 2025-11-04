@@ -1,59 +1,83 @@
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-<div style="flex: 1; margin-right: 20px;">
+<div style="flex: 1;">
 
 ```python
 class AlexanderDaguob:
-    def __init__(self):
-        self.name = 'Alexander D. Daguob'
-        self.email = 'alexanderdaguob@gmail.com'
-        self.status = 'currently occupied with private repositories/projects'
-    
-    def whoami(self):
-        self.location = 'Philippines'
-        self.role = 'Software Engineer'
-        self.company = 'DaguobDev (self-employed/freelance)'
-        self.experience = 'Aug 2023 – Present'
-    
-    def education(self):
-        self.degrees = [
-            'MA/STL Sacred Theology (2017–2022) – University of Santo Tomas',
-            'BS Sacred Theology (2016) – University of Santo Tomas', 
-            'AB Philosophy (2013) – Sacred Heart Seminary',
-            'BS Computer Engineering (2010) – AMA Computer College'
-        ]
-        self.online_courses = ['CS50x', 'CS50Python', 'CS50SQL', 'CS50Web']
-    
-    def tech_stack(self):
-        self.main_language = 'python'
-        self.frameworks = ['FastAPI', 'Flask', 'Flet', 'NiceGUI']
-        self.databases = ['SQLite3', 'MySQL', 'PostgreSQL']
-        self.other_skills = ['HTML', 'CSS', 'JavaScript', 'C', 'Git', 'CI/CD']
-    
-    def recent_projects(self):
-        self.projects = [
-            'PUSH-App: Hospital-acquired Pressure Injuries tracking system',
-            'EyeQsoft: Optical clinic management web application',
-            'yellowpagesPh_scraper: Web scraping tool for data collection'
+    name: str = "Alexander D. Daguob"
+    role: str = "Software Engineer — Full‑Stack Python"
+    location: str = "Quezon City, Metro Manila"
+    email: str = "alexanderdaguob@gmail.com"
+    phone: str = "+63 929 773 1916"
+    since: str = "Aug 2023–Present"
+
+    @staticmethod
+    def summary() -> str:
+        return (
+            "Independent engineer shipping end‑to‑end apps with FastAPI, SQLModel, "
+            "and Flet/NiceGUI. Built PUSH App (Champion) and EyeQsoft prototype. "
+            "Language‑agnostic and quick to learn any stack required by the team."
+        )
+
+    @staticmethod
+    def stack() -> dict:
+        return {
+            "backend": ["Python 3", "FastAPI", "SQLModel", "SQLAlchemy", "Auth", "Async"],
+            "ui": ["Flet", "NiceGUI", "HTML/CSS/JS"],
+            "data": ["SQLite", "PostgreSQL", "Pandas"],
+            "devops": ["Git", "CI/CD", "Docker (basic)"]
+        }
+
+    @staticmethod
+    def projects() -> list:
+        return [
+            {
+                "name": "PUSH App",
+                "role": "solo dev",
+                "notes": "nursing research platform — 1st‑place (Champion); FastAPI + SQLModel + Flet; reporting/exports"
+            },
+            {
+                "name": "EyeQsoft",
+                "role": "independent",
+                "notes": "clinic ops prototype; components reused across newer projects"
+            },
+            {
+                "name": "Open‑source utilities",
+                "notes": "CLI/GUI tools, scraping & ETL; consistent commits since Aug 2023"
+            }
         ]
 
-me = AlexanderDaguob()
+    @staticmethod
+    def education() -> list:
+        return [
+            "Harvard CS50x & CS50P (2023–2024)",
+            "BS Computer Engineering — AMA (2004–2010)"
+        ]
+
+    @staticmethod
+    def links() -> dict:
+        return {
+            "GitHub": "https://github.com/addaguob",
+            "LinkedIn": "https://linkedin.com/in/addaguob",
+            "Email": "mailto:alexanderdaguob@gmail.com"
+        }
+
+
+if __name__ == "__main__":
+    me = AlexanderDaguob()
+    print(me.summary())
 ```
 
 </div>
 
 <div style="flex-shrink: 0;">
-<a href="https://app.daily.dev/alexanderddaguob">
+  <a href="https://app.daily.dev/alexanderddaguob">
     <img src="./devcard.png" width="356" alt="Alexander D. Daguob's Dev Card"/>
-</a>
-</a>
+  </a>
 </div>
 
 </div>
-
---- 
-**Community:** [CS50 Discord](https://discord.gg/cs50) | [Flet Discord](https://discord.com/invite/dzWXP8SHG8) | [Python Discord](https://discord.gg/python)
 
 <!---
 addaguob/addaguob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
